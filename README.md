@@ -9,7 +9,7 @@ Here's a list of all the known Hugin Cache APIs, feel free to setup your own and
 
 List of Hugin Cache APIs:
 
-- **cache.hugin.chat** - The Kryptokrona projects own Hugin Cache server
+- **cache.hugin.chat** - The Kryptokrona project Hugin Cache API
 
 ## How to add:
 
