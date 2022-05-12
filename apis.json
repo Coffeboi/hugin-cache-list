@@ -5,6 +5,12 @@
             "domain": "cache.hugin.chat",
             "base_path": "/api/v1",
             "ports": [80, 443]
+        },
+        {
+            "name": "Mjovanc Cache",
+            "domain": "cache.mjovanc.com",
+            "base_path": "/api/v1",
+            "ports": [80, 443]
         }
     ]
 }
