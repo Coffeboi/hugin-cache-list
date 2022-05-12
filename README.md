@@ -10,6 +10,7 @@ Here's a list of all the known Hugin Cache APIs, feel free to setup your own and
 List of Hugin Cache APIs:
 
 - **cache.hugin.chat** - The Kryptokrona project Hugin Cache API
+- **cache.mjovanc.com** - Mjovanc Cache
 
 ## How to add:
 
