@@ -11,6 +11,13 @@
             "domain": "cache.mjovanc.com",
             "base_path": "/api/v1",
             "ports": [80, 443]
+        },
+        {
+            "name": "Novastack Cache",
+            "domain": "cache.novastack.org",
+            "base_path": "/api/v1",
+            "ports": [80, 443]
         }
+        
     ]
 }
