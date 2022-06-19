@@ -1,23 +1,14 @@
 {
     "apis": [
         {
-            "name": "Hugin Cache Official",
+            "name": "Hugin Cache API Official",
+            "description": "The Official Hugin Cache API hosted by Kryptokrona project",
             "domain": "cache.hugin.chat",
-            "base_path": "/api/v1",
-            "ports": [80, 443]
         },
         {
-            "name": "Mjovanc Cache",
-            "domain": "cache.mjovanc.com",
-            "base_path": "/api/v1",
-            "ports": [80, 443]
-        },
-        {
-            "name": "Novastack Cache",
+            "name": "Novastack Hugin Cache API",
+            "description": "High Performance Hugin Cache API Powered by Novastack Hosting",
             "domain": "cache.novastack.org",
-            "base_path": "/api/v1",
-            "ports": [80, 443]
         }
-        
     ]
 }
