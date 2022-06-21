@@ -2,10 +2,12 @@
     "apis": [
         {
             "url": "https://cache.hugin.chat",
+            "name": "Official Hugin Cache API",
             "description": "The Official Hugin Cache API hosted by Kryptokrona project",
         },
         {
             "url": "https://cache.novastack.org",
+            "name": "Novastack Hugin Cache API",
             "description": "High Performance Hugin Cache API Powered by Novastack Hosting",
         }
     ]
