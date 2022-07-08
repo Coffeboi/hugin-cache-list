@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/hugin-cache.png" alt="Hugin Logo"/>
+  <img src="hugin-cache.png" alt="Hugin Logo"/>
 </p>
 
 <p>
