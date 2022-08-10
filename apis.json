@@ -3,7 +3,7 @@
         {
             "url": "https://cache.hugin.chat",
             "name": "Official Hugin Cache API",
-            "description": "The Official Hugin Cache API hosted by Kryptokrona project",
+            "description": "The Official Hugin Cache API Powered by Novastack Hosting",
         },
         {
             "url": "https://cache.novastack.org",
@@ -14,6 +14,11 @@
             "url": "https://testcache.novastack.org",
             "name": "Novastack Testing Hugin Cache API",
             "description": "Used to test new/latest features before running on main Novastack Cache",
+        },
+        {
+            "url": "https://cache.norpool.org",
+            "name": "Norpool Cache API",
+            "description": "Norpool Hugin Cache API"
         }
     ]
 }
