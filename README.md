@@ -16,6 +16,7 @@ List of Hugin Cache APIs:
 - **cache.hugin.chat** - The Kryptokrona project Hugin Cache API
 - **cache.novastack.org** - Novastack Cache - Contact: techy@novastack.org / TechyGuy#3470 @ discord
 - **testcache.novastack.org** - Novastack Test Cache - Contact: techy@novastack.org / TechyGuy#3470 @ discord
+- **cache.norpool.org - Norpool Hugin Cache 
 
 ## How to add:
 
